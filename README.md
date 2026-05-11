@@ -8,7 +8,7 @@ Praticar os conceitos fundamentais de estruturas de dados utilizando a linguagem
 
 ## Conteúdos estudados
 
-- [Stack](./pilhas)
+- [Pilhas](./pilhas)
 
 ## Linguagem utilizada
 
